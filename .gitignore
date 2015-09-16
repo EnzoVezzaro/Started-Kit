@@ -1,10 +1,4 @@
-### NODE ###
-node_modules
 .tmp
-
-### BOWER ###
-bower_components
-test/bower_components
 
 ### OSX ###
 .DS_Store
