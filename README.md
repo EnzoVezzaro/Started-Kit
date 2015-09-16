@@ -3,7 +3,7 @@
 
 # Ultimate Front-End Starter Kit
 
-Use this as a simple structure for a simple project using G<ul>p - Jade - SASS Inspired by YEOMAN / generator-modern-front-end 0.1.8.
+Use this as a simple structure for a simple project using Gulp - Jade - SASS Inspired by YEOMAN / generator-modern-front-end 0.1.8.
 
 # Features  <i class="fa fa-rocket"></i>
 
@@ -44,5 +44,5 @@ Use this as a simple structure for a simple project using G<ul>p - Jade - SASS I
 <p><br><a href="http://www.freepik.com/free-vector/vectors_789673.htm" target="_blank">Gears Designed</a> by <a href='http://freepink.com' target="_blank">Freepik</a></p>
 <p><br><i class="fa fa-hand-peace-o fa-3x"></i></p>
 
-<a href="http://www.facebook.com/evezzaro" target="_blank"><img src="images/sprites/profile.png" class="profile"></a>
+<a href="http://www.facebook.com/evezzaro" target="_blank"><img src="app/images/sprites/profile.png" class="profile"></a>
 <p>Made with <i class="fa fa-heart"></i> <br>by <a href="http://github.com/EnzoVezzaro" target="_blank">Enzo Vezzaro</a></p>
