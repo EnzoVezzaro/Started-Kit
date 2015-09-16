@@ -1,7 +1,7 @@
 <link rel='stylesheet', href='http://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css'>
 
 
-# <ul>timate Front-End Starter Kit
+# Ultimate Front-End Starter Kit
 
 Use this as a simple structure for a simple project using G<ul>p - Jade - SASS Inspired by YEOMAN / generator-modern-front-end 0.1.8.
 
