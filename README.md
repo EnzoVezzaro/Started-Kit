@@ -25,15 +25,14 @@ Use this as a simple structure for a simple project using Gulp - Jade - SASS Ins
 <ul>
   <li>Download Files or Clone Repo from <a href="http://github.com/EnzoVezzaro/Starter-Kit" target="_blank"><i class="fa fa-github"></i> GitHub</a></li>
   <h5>Install dependencies: </h5>
-  <li><i class="fa fa-chevron-right"></i><code> npm install --global yo bower</code> (need to have node.js installed on your macchine)</li>
-  <li><i class="fa fa-chevron-right"></i><code> gem install bourbon</code> (need to have RubyGems package manager)</li>
-  <li><i class="fa fa-chevron-right"></i><code> gem install neat</code></li>
-  <li><i class="fa fa-chevron-right"></i><code> npm install --global gulp</code></li>
+  <li><i class="fa fa-chevron-right"></i><code> npm install -g gulp</code> <br>( need to have node.js installed on your macchine )</li>
   <li><i class="fa fa-chevron-right"></i><code> npm install -g gulp-jade</code></li>
-  <h5>Run Gulp</h5>
-  <li>Run <code>gulp serve</code> to preview and watch for changes</li>
-  <li>Run <code>bower/npm install --save <package></code>to install frontend dependencies</li>
-  <li>Run <code>gulp</code> to build for production</li>
+  <li><i class="fa fa-chevron-right"></i><code> npm install -g gulp-sass</code></li>
+  <li><i class="fa fa-chevron-right"></i><code> npm install -g yo bower</code> </li>
+  <li><i class="fa fa-chevron-right"></i><code> bower install</code> </li>
+  <li><i class="fa fa-chevron-right"></i><code> npm install</code> </li>
+  <li><i class="fa fa-chevron-right"></i><code> gem install bourbon</code></li>
+  <li><i class="fa fa-chevron-right"></i><code> gem install neat</code></li>
 </ul>
 
 # Credits  <i class="fa fa-users"></i>
