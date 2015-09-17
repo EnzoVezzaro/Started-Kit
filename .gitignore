@@ -1,3 +1,9 @@
+### Bower ###
+bower_components
+
+### NODE ###
+node_modules
+
 .tmp
 
 ### OSX ###
